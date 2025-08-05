@@ -1,0 +1,39 @@
+# KiCad temporary files
+*.tmp
+*.bak
+*.bck
+*-bak
+*-backup
+*.kicad_pcb-bak
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# KiCad cache files
+*.dcm.cache
+*.lib.cache
+
+# Output files
+gerbers/
+*.zip
+*.gbr
+*.drl
+*.pos
+*.csv
+*.pdf
+
+# Backup directories
+*-backups/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

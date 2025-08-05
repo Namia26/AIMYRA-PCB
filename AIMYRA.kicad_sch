@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "85cf9f84-60a2-4b8c-a5b3-1f9b88d9ddd5")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 81.28 38.1)
+		(size 31.75 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6b9459fd-9d75-4084-9c9d-26ff1b3e5dfe")
+		(property "Sheetname" "CHARGING CIRCUIT"
+			(at 81.28 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CHARGING.kicad_sch"
+			(at 81.28 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AIMYRA"
+				(path "/85cf9f84-60a2-4b8c-a5b3-1f9b88d9ddd5"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 38.1 38.1)
+		(size 30.48 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "73f73b97-deff-45d6-a117-7a2cfd730883")
+		(property "Sheetname" "USB_DESIGN"
+			(at 38.1 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB.kicad_sch"
+			(at 38.1 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AIMYRA"
+				(path "/85cf9f84-60a2-4b8c-a5b3-1f9b88d9ddd5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
